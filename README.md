@@ -20,6 +20,10 @@ This VS Code extension provides a Model Context Protocol (MCP) server that expos
 - [Debugging](#debugging)
 - [License](#license)
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/vscode-devtools).
+
 ## Features
 
 - **Language Server Integration**: Access VSCode's language server capabilities for any supported language
